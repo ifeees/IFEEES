@@ -9,4 +9,4 @@ star / watch本仓库即可。
 ![公众号](http://pazgkbbu5.bkt.clouddn.com/ifeees.jpg)
 
 ### 如何投稿/加入
-直接提issue即可，https://github.com/ifeees/articles/issues（markdown only）
+直接提issue即可，[https://github.com/ifeees/articles/issues](https://github.com/ifeees/articles/issues)（markdown only）
